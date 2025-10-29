@@ -3,8 +3,8 @@
 
 
 - 🔭 Trabalhando como Auxiliar Financeiro
-- 🌱 Estudando Python
-- ⚡ Cursando Analise e Desenvolvemnto de Sistema
+- 🌱 Focado em Back-end
+- ⚡ Cursando Analise e Desenvolvemnto de Sistema - UNISUAM
 
 <div>
 <a href="https://github.com/GAvila99">
